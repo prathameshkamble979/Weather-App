@@ -26,7 +26,10 @@ A responsive and interactive web application built using **React.js** and **Mate
 
 ## 📸 Screenshots
 
-![App Screenshot]: https://drive.google.com/file/d/1HxBAV6Uaec2DLkDbg1tUiaiybAgwSNfO/view?usp=sharing
+![App Screenshot]: 
+https://drive.google.com/file/d/1HxBAV6Uaec2DLkDbg1tUiaiybAgwSNfO/view?usp=sharing
+https://drive.google.com/file/d/1ZgEBGdXQ_zP9_DLBeLz6-Cn_40lUCDIN/view?usp=sharing
+https://drive.google.com/file/d/1Q45Et7FNst2fgr-PuSXr4ikB6xPXm_6V/view?usp=sharing
 
 
 
