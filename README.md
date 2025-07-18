@@ -9,8 +9,8 @@ A responsive and interactive web application built using **React.js** and **Mate
 - **Frontend**: React.js, JavaScript, HTML, CSS  
 - **UI Library**: Material UI (MUI)  
 - **Hooks**: useState, useEffect  
-- **Routing**: [React Router – if used]  
-- **Other Tools**: [Axios, Formik, etc. – if used]
+- **Routing**: [React Router]  
+- **Other Tools**: [Axios, Formik, etc.]
 
 ---
 
@@ -26,11 +26,9 @@ A responsive and interactive web application built using **React.js** and **Mate
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot]: https://drive.google.com/file/d/1HxBAV6Uaec2DLkDbg1tUiaiybAgwSNfO/view?usp=sharing
 
-_Add a screenshot of your app's UI above. Place `screenshot.png` in the project folder._
 
----
 
 ## 🔗 Live Demo
 
@@ -44,6 +42,6 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/prathameshkamble979/Weather-App.git
-cd your-repo-name
+cd your repo
 npm install
 npm start
