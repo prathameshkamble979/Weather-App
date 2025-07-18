@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.InfoBox{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    padding-bottom: 10px;
+    
+}
+.h3 {
+    text-align: center;
+    padding-top:30px;
+}
+/* 
+.weatherInfo {
+    border: 1px solid black;
+    width: 450px;
+    align-items: center;
+} */
