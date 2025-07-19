@@ -32,13 +32,6 @@ https://drive.google.com/file/d/1ZgEBGdXQ_zP9_DLBeLz6-Cn_40lUCDIN/view?usp=shari
 https://drive.google.com/file/d/1Q45Et7FNst2fgr-PuSXr4ikB6xPXm_6V/view?usp=sharing
 
 
-
-## 🔗 Live Demo
-
-👉 [View the Project](https://yourusername.github.io/your-repo-name)
-
----
-
 ## 📦 Installation
 
 To run the project locally:
